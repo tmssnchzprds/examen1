@@ -1,3 +1,3 @@
-Creo documento 1 con texto Modifico el Archivo
+Creo rama 2 con texto
 Modifico el archivo añadiendo una linea
 Modifico el archivo añadiendo otra linea
